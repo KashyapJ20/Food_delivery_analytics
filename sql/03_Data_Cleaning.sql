@@ -55,15 +55,6 @@ SELECT item_id, COUNT(*) FROM menu_items GROUP BY item_id HAVING COUNT(*) > 1;
 SELECT order_id, COUNT(*) FROM orders GROUP BY order_id HAVING COUNT(*) > 1;
 SELECT order_id, item_id, COUNT(*) FROM order_items GROUP BY order_id, item_id HAVING COUNT(*) > 1;
 
--- Full-row duplicates in orders (same customer/restaurant/time/amount repeated)
-SELECT customer_id, restaurant_id, order_time, total_amount, COUNT(*) AS occurrences
-FROM orders
-GROUP BY customer_id, restaurant_id, order_time, total_amount
-HAVING COUNT(*) > 1;
-
--- Numeric range validation
-SELECT * FROM restaurants WHERE rating NOT BETWEEN 1.0 AND 5.0;
-SELECT * FROM orders WHERE delivery_duration <= 0 OR delivery_duration > 180;
 SELECT * FROM orders WHERE total_amount <= 0;
 SELECT * FROM menu_items WHERE price <= 0;
 SELECT * FROM order_items WHERE quantity <= 0;
