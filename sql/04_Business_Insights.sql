@@ -1,6 +1,6 @@
--- Food Delivery Analytics — Combined SQL (Analysis + Business Questions)
--- Rule: orders.total_amount and SUM(order_items.line_total) hold
--- DIFFERENT values by design — total_amount is used for all revenue;
+
+
+--  total_amount is used for all revenue.
 -- line_total is used only for item/category-level menu metrics.
 USE food_delivery_db;
 
