@@ -1,0 +1,201 @@
+restaurant_id,restaurant_name,cuisine,city,rating
+REST0001,Classic Point,Burger,Kolkata,4.9
+REST0002,Elite Plaza,Italian,Delhi,4.5
+REST0003,Hungry Bistro,Street Food,Kolkata,3.5
+REST0004,Urban Lounge,South Indian,Hyderabad,3.7
+REST0005,Grand Station,Pizza,Kolkata,4.8
+REST0006,Elite Grill,Biryani,Mumbai,3.6
+REST0007,Little Hub,Cafe,Hyderabad,3.8
+REST0008,Royal Kitchen,Italian,Ahmedabad,3.8
+REST0009,Fusion Plaza,Burger,Mumbai,4.4
+REST0010,Blue Palace,Chinese,Hyderabad,4.4
+REST0011,Fresh Station,Italian,Ahmedabad,3.9
+REST0012,Classic Junction,Desserts,Pune,3.8
+REST0013,Elite Express,Street Food,Delhi,4.6
+REST0014,Classic House,Biryani,Bangalore,4.9
+REST0015,Hot Restaurant,Chinese,Bangalore,3.6
+REST0016,Golden Lounge,Cafe,Mumbai,3.7
+REST0017,Masala Express,North Indian,Mumbai,4.5
+REST0018,Spice Express,North Indian,Mumbai,4.7
+REST0019,Express Station,Burger,Pune,4.7
+REST0020,Blue Kitchen,Chinese,Pune,4.6
+REST0021,Express Grill,Street Food,Chennai,4.8
+REST0022,Fresh Square,Italian,Bangalore,3.8
+REST0023,Blue Plaza,Italian,Chennai,3.7
+REST0024,Cool Stop,Burger,Mumbai,4.4
+REST0025,Fresh Restaurant,Biryani,Bangalore,4.7
+REST0026,Hungry Station,Mexican,Delhi,4.4
+REST0027,Happy Square,South Indian,Ahmedabad,4.9
+REST0028,Happy Point,Biryani,Hyderabad,4.7
+REST0029,Premium Diner,Chinese,Kolkata,4.6
+REST0030,Elite Cafe,North Indian,Mumbai,3.6
+REST0031,Taste Grill,Burger,Chennai,3.7
+REST0032,Elite Square,North Indian,Bangalore,4.7
+REST0033,Delhi Restaurant,Healthy,Ahmedabad,3.8
+REST0034,Express Express,Burger,Bangalore,3.5
+REST0035,Food Junction,Healthy,Bangalore,4.9
+REST0036,Hot Junction,Chinese,Mumbai,4.8
+REST0037,Urban Corner,Healthy,Hyderabad,3.8
+REST0038,Spice Junction,North Indian,Pune,4.7
+REST0039,Fusion Point,North Indian,Mumbai,3.6
+REST0040,The Bistro,North Indian,Mumbai,3.9
+REST0041,Express Corner,Mexican,Jaipur,4.4
+REST0042,Masala Lounge,North Indian,Delhi,4.6
+REST0043,Flavor Square,Pizza,Kolkata,3.5
+REST0044,Grand Lounge,Chinese,Jaipur,4.0
+REST0045,Little Diner,Chinese,Jaipur,3.8
+REST0046,Cool Palace,Burger,Kolkata,5.0
+REST0047,Blue Garden,North Indian,Kolkata,4.5
+REST0048,Green Junction,Biryani,Pune,4.1
+REST0049,Express Garden,Pizza,Mumbai,3.6
+REST0050,Hot Hub,Desserts,Hyderabad,4.4
+REST0051,Food Lounge,Chinese,Bangalore,4.5
+REST0052,Food Garden,Healthy,Mumbai,4.7
+REST0053,Premium Treat,Pizza,Hyderabad,3.9
+REST0054,Cool Lounge,Healthy,Bangalore,5.0
+REST0055,Taste Bistro,North Indian,Kolkata,4.2
+REST0056,Spice Hub,Biryani,Bangalore,3.9
+REST0057,Grand Restaurant,Cafe,Bangalore,4.0
+REST0058,Heritage Express,North Indian,Delhi,4.3
+REST0059,Red Junction,Pizza,Delhi,4.9
+REST0060,Taste Express,Biryani,Jaipur,4.6
+REST0061,Masala Square,Pizza,Mumbai,4.4
+REST0062,Hungry House,North Indian,Delhi,3.7
+REST0063,Elite Point,Biryani,Hyderabad,3.7
+REST0064,Taste Restaurant,North Indian,Delhi,4.3
+REST0065,Hungry Restaurant,Cafe,Pune,4.6
+REST0066,The Kitchen,North Indian,Pune,4.6
+REST0067,Big Point,North Indian,Pune,3.8
+REST0068,Food Square,South Indian,Delhi,3.7
+REST0069,Kitchen House,Burger,Kolkata,4.1
+REST0070,Heritage Station,Healthy,Bangalore,4.9
+REST0071,Fusion Station,North Indian,Pune,4.3
+REST0072,Delhi Hub,North Indian,Delhi,4.0
+REST0073,Hot Garden,Chinese,Mumbai,4.0
+REST0074,Royal Express,Cafe,Kolkata,3.7
+REST0075,Urban House,Mexican,Delhi,4.2
+REST0076,Kitchen Garden,Chinese,Surat,4.7
+REST0077,Blue Station,Pizza,Delhi,5.0
+REST0078,Blue Treat,South Indian,Ahmedabad,4.3
+REST0079,Fusion Grill,Italian,Pune,3.8
+REST0080,Big Diner,Chinese,Mumbai,4.5
+REST0081,The Stop,Biryani,Mumbai,4.6
+REST0082,Food Point,Street Food,Bangalore,3.6
+REST0083,Elite Treat,Biryani,Pune,4.8
+REST0084,Little Treat,Italian,Delhi,4.7
+REST0085,Happy Treat,Mexican,Ahmedabad,4.2
+REST0086,Food Grill,North Indian,Pune,4.3
+REST0087,Urban Stop,Biryani,Pune,4.6
+REST0088,Happy Stop,Pizza,Ahmedabad,4.5
+REST0089,Kitchen Diner,Desserts,Bangalore,3.5
+REST0090,Fresh Diner,South Indian,Ahmedabad,3.7
+REST0091,Cafe Plaza,Biryani,Delhi,3.7
+REST0092,Spice Treat,Burger,Delhi,4.6
+REST0093,Classic Palace,South Indian,Mumbai,4.2
+REST0094,Green Corner,Burger,Kolkata,4.3
+REST0095,Cool Hub,Street Food,Kolkata,4.7
+REST0096,Premium Kitchen,Desserts,Surat,4.0
+REST0097,Grand Express,Biryani,Delhi,4.6
+REST0098,Green Plaza,North Indian,Ahmedabad,4.2
+REST0099,Urban Bistro,Desserts,Delhi,4.1
+REST0100,Red Plaza,Burger,Delhi,4.0
+REST0101,Blue House,Chinese,Ahmedabad,4.9
+REST0102,Blue Lounge,South Indian,Mumbai,4.7
+REST0103,Delhi Garden,North Indian,Pune,3.5
+REST0104,Elite Kitchen,North Indian,Pune,4.9
+REST0105,Taste Plaza,Biryani,Chennai,4.7
+REST0106,Bombay Kitchen,South Indian,Delhi,3.7
+REST0107,Golden Bistro,North Indian,Delhi,3.6
+REST0108,Big Plaza,Italian,Surat,4.0
+REST0109,Red Grill,Mexican,Delhi,4.4
+REST0110,Spice Garden,North Indian,Pune,4.4
+REST0111,Cool Kitchen,North Indian,Hyderabad,3.9
+REST0112,Cafe Junction,South Indian,Ahmedabad,4.2
+REST0113,Bombay Junction,Burger,Mumbai,3.8
+REST0114,Royal Lounge,North Indian,Hyderabad,3.6
+REST0115,Cafe Diner,Pizza,Mumbai,4.3
+REST0116,Golden Corner,North Indian,Bangalore,4.0
+REST0117,Grand Hub,South Indian,Pune,4.3
+REST0118,Hungry Point,Italian,Pune,4.9
+REST0119,Bombay Palace,North Indian,Delhi,3.7
+REST0120,Little Corner,North Indian,Jaipur,3.5
+REST0121,Food Station,Chinese,Chennai,3.6
+REST0122,Kitchen Hub,Chinese,Jaipur,4.2
+REST0123,Spice Stop,Biryani,Hyderabad,4.6
+REST0124,Cafe Hub,North Indian,Mumbai,4.4
+REST0125,Royal House,Cafe,Pune,4.2
+REST0126,Hungry Diner,Cafe,Kolkata,4.0
+REST0127,Golden Diner,Biryani,Hyderabad,4.0
+REST0128,Hot Express,Chinese,Surat,4.1
+REST0129,Spice Bistro,Cafe,Mumbai,4.4
+REST0130,Fresh Stop,South Indian,Pune,3.8
+REST0131,Blue Cafe,North Indian,Delhi,4.7
+REST0132,The Lounge,North Indian,Delhi,4.4
+REST0133,Little Lounge,Street Food,Pune,3.9
+REST0134,Flavor Express,Chinese,Delhi,4.3
+REST0135,Golden House,Desserts,Hyderabad,4.9
+REST0136,Cafe Treat,South Indian,Pune,3.5
+REST0137,Grand Junction,Desserts,Mumbai,3.8
+REST0138,Urban Garden,Desserts,Hyderabad,4.2
+REST0139,Royal Junction,Street Food,Delhi,4.5
+REST0140,Green Cafe,Mexican,Bangalore,3.8
+REST0141,Heritage Kitchen,Cafe,Delhi,4.9
+REST0142,Golden Plaza,Street Food,Kolkata,4.5
+REST0143,Blue Express,Chinese,Bangalore,4.8
+REST0144,Fresh Plaza,Italian,Jaipur,4.0
+REST0145,Green Point,Biryani,Bangalore,4.7
+REST0146,Hungry Square,Chinese,Pune,4.1
+REST0147,Kitchen Treat,Biryani,Delhi,3.9
+REST0148,Delhi Point,North Indian,Bangalore,4.9
+REST0149,Masala Plaza,Pizza,Bangalore,3.6
+REST0150,Bombay Cafe,North Indian,Hyderabad,4.9
+REST0151,Heritage Plaza,Chinese,Pune,4.2
+REST0152,Express House,South Indian,Hyderabad,5.0
+REST0153,Royal Treat,Cafe,Chennai,4.3
+REST0154,Hot Stop,South Indian,Hyderabad,4.6
+REST0155,Hungry Hub,Biryani,Bangalore,3.5
+REST0156,Heritage Garden,Biryani,Surat,4.2
+REST0157,Golden Stop,Mexican,Delhi,4.6
+REST0158,Masala Bistro,South Indian,Mumbai,4.7
+REST0159,Bombay Plaza,South Indian,Ahmedabad,3.7
+REST0160,Blue Corner,Mexican,Pune,4.1
+REST0161,Hungry Corner,North Indian,Chennai,4.1
+REST0162,Hot Point,Pizza,Mumbai,3.7
+REST0163,Classic Plaza,Street Food,Mumbai,4.2
+REST0164,Golden Junction,North Indian,Mumbai,4.7
+REST0165,Delhi Stop,Pizza,Delhi,4.0
+REST0166,Green Palace,Street Food,Mumbai,4.1
+REST0167,Golden Cafe,Cafe,Mumbai,4.9
+REST0168,Happy Grill,Cafe,Chennai,3.5
+REST0169,Cafe Bistro,Cafe,Chennai,4.4
+REST0170,Express Stop,Chinese,Ahmedabad,4.6
+REST0171,Cafe Kitchen,Desserts,Ahmedabad,4.6
+REST0172,Heritage Point,Street Food,Delhi,4.6
+REST0173,Green Kitchen,Mexican,Kolkata,4.6
+REST0174,Red Garden,Chinese,Bangalore,3.6
+REST0175,Happy Hub,Italian,Bangalore,4.3
+REST0176,Kitchen Plaza,Chinese,Chennai,4.7
+REST0177,Fusion Garden,South Indian,Pune,3.6
+REST0178,Grand Corner,Burger,Chennai,3.5
+REST0179,Big Corner,Pizza,Delhi,4.7
+REST0180,Grand Kitchen,Mexican,Mumbai,4.6
+REST0181,Fusion Treat,North Indian,Mumbai,4.1
+REST0182,Happy Express,Biryani,Mumbai,4.9
+REST0183,Masala Diner,North Indian,Kolkata,4.6
+REST0184,Taste Treat,North Indian,Surat,5.0
+REST0185,Express Kitchen,Burger,Delhi,4.9
+REST0186,Fresh Kitchen,Italian,Pune,4.2
+REST0187,Little Palace,North Indian,Pune,4.6
+REST0188,Happy Restaurant,Chinese,Ahmedabad,4.5
+REST0189,Delhi Corner,Biryani,Pune,4.7
+REST0190,Green Station,Burger,Jaipur,4.7
+REST0191,Big Cafe,Chinese,Hyderabad,3.7
+REST0192,Fresh Garden,South Indian,Kolkata,3.9
+REST0193,Masala House,Burger,Bangalore,3.9
+REST0194,Golden Garden,Desserts,Hyderabad,4.7
+REST0195,Fusion Stop,Burger,Hyderabad,4.7
+REST0196,Delhi Kitchen,Cafe,Ahmedabad,4.2
+REST0197,Delhi Diner,Pizza,Ahmedabad,4.4
+REST0198,Taste Palace,Biryani,Bangalore,4.7
+REST0199,The Hub,Desserts,Hyderabad,4.0
+REST0200,Grand Bistro,Biryani,Jaipur,3.6
